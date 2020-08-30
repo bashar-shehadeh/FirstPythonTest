@@ -1,4 +1,4 @@
-print('Give me two numbers') 
+print('Hey! Think of two numbers') 
 print('Number 1') 
 numOne = input()
 print('Number 2') 
